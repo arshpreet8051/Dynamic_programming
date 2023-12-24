@@ -1,0 +1,2 @@
+#define or |
+// #define and &

@@ -8,5 +8,6 @@
 5. [Ninja training](4_Ninja_training.cpp)
 6. [Minimum Cost Path](5_Min_cost_path.cpp)
 7. [Triangle Minimum Cost Path](6_Triangle_min_cost_path.cpp)
+8. 
 
 

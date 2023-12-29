@@ -9,6 +9,7 @@
 6. [Minimum Cost Path](5_Min_cost_path.cpp)
 7. [Triangle Minimum Cost Path](6_Triangle_min_cost_path.cpp)
 8. [Maximum falling path in matrix](7_max_falling_path.cpp)
+9. [Cherry picking 3d matrix](8_cherry_picking.cpp)
 
 
 

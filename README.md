@@ -10,6 +10,7 @@
 7. [Triangle Minimum Cost Path](6_Triangle_min_cost_path.cpp)
 8. [Maximum falling path in matrix](7_max_falling_path.cpp)
 9. [Cherry picking 3d matrix](8_cherry_picking.cpp)
+10. [Subset Sum equals to K](9_Subset_Sum_Equal_To_K.cpp)
 
 
 

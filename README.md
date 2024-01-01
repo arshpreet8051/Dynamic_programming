@@ -11,6 +11,7 @@
 8. [Maximum falling path in matrix](7_max_falling_path.cpp)
 9. [Cherry picking 3d matrix](8_cherry_picking.cpp)
 10. [Subset Sum equals to K](9_Subset_Sum_Equal_To_K.cpp)
-
+11. [Partition_Equal_Subset_Sum](10_Partition_Equal_Subset_Sum.cpp)
+ 
 
 

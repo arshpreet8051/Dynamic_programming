@@ -12,6 +12,7 @@
 9. [Cherry picking 3d matrix](8_cherry_picking.cpp)
 10. [Subset Sum equals to K](9_Subset_Sum_Equal_To_K.cpp)
 11. [Partition_Equal_Subset_Sum](10_Partition_Equal_Subset_Sum.cpp)
+12. [Array_Partition_Minimum_Sum](11_Array_partition_with_min_sum.cpp)
  
 
 

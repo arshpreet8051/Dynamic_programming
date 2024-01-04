@@ -16,6 +16,7 @@
 13. [Count Subsets with Sum K](12_ Count_Subsets_with_Sum_K.cpp)
 14. [Partititons_with_given_diff](13_Partititons_with_given_diff.cpp)
 15. [0/1 Knapsack](14_0_1_knapsack.cpp)
+16. [Min Coins](15_min_coin.cpp)
  
 
 

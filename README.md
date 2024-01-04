@@ -13,7 +13,8 @@
 10. [Subset Sum equals to K](9_Subset_Sum_Equal_To_K.cpp)
 11. [Partition_Equal_Subset_Sum](10_Partition_Equal_Subset_Sum.cpp)
 12. [Array_Partition_Minimum_Sum](11_Array_partition_with_min_sum.cpp)
-13. [ Count Subsets with Sum K](12_ Count_Subsets_with_Sum_K.cpp)
+13. [Count Subsets with Sum K](12_ Count_Subsets_with_Sum_K.cpp)
+14. [Partititons_with_given_diff](13_Partititons_with_given_diff.cpp)
  
 
 

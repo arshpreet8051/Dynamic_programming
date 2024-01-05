@@ -17,6 +17,8 @@
 14. [Partititons_with_given_diff](13_Partititons_with_given_diff.cpp)
 15. [0/1 Knapsack](14_0_1_knapsack.cpp)
 16. [Min Coins](15_min_coin.cpp)
+17. [Target Sum](16_target_sum.cpp)
+16. [Min Coins 2](17_Coins_2.cpp)
  
 
 

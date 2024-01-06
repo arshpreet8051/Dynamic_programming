@@ -19,7 +19,7 @@
 16. [Min Coins](15_min_coin.cpp)
 17. [Target Sum](16_target_sum.cpp)
 19. [Min Coins 2](17_Coins_2.cpp)
-20. [Min Coins 2](17_Coins_2.cpp)
+20. [Rod Cutting](19_Rod_cutting.cpp)
  
 
 

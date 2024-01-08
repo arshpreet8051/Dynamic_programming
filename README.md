@@ -20,7 +20,8 @@
 17. [Target Sum](16_target_sum.cpp)
 19. [Min Coins 2](17_Coins_2.cpp)
 20. [Rod Cutting](19_Rod_cutting.cpp)
-21. [Longest Common Subsequence](20_longest_common_subsequence.cpp)
+21. [Length of Longest Common Subsequence](20_longest_common_subsequence.cpp)
+22. [Longest Common Subsequence](21_print_longest_common_subsequence.cpp)
  
 
 

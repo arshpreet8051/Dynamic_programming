@@ -22,6 +22,7 @@
 20. [Rod Cutting](19_Rod_cutting.cpp)
 21. [Length of Longest Common Subsequence](20_longest_common_subsequence.cpp)
 22. [Longest Common Subsequence](21_print_longest_common_subsequence.cpp)
+22. [Length of Longest Palindromic Subsequence](22_longest_common_substring.cpp)
  
 
 

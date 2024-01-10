@@ -24,8 +24,9 @@
 22. [Longest Common Subsequence](21_print_longest_common_subsequence.cpp)
 23. [Length of Longest Palindromic Subsequence](22_longest_common_substring.cpp)
 24. [Minimum insertions to make a string palindromic](23_minimum_insertions_to_make_string_palindromic.cpp)
-25. [Minimum insertions and deletions to make strings same](25_min_insertions_deletions_to_strings_same.cpp)
-26. [Shortest common Super-Subsequence](24_len_of_shortest_super_subsequence.cpp)
+25. [Shortest common Super-Subsequence](24_len_of_shortest_super_subsequence.cpp)
+26. [Print Shortest common Super-Subsequence](25_print_shortest_super_sequence.cpp)
+27. [Minimum insertions and deletions to make strings same](26_min_insertions_deletions_to_strings_same.cpp)
  
 
 

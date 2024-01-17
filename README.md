@@ -27,7 +27,8 @@
 25. [Shortest common Super-Subsequence](24_len_of_shortest_super_subsequence.cpp)
 26. [Print Shortest common Super-Subsequence](25_print_shortest_super_sequence.cpp)
 27. [Minimum insertions and deletions to make strings same](26_min_insertions_deletions_to_strings_same.cpp)
-27. [Distinct Subsequences](27_distinct_subsequence.cpp)
+28. [Distinct Subsequences](27_distinct_subsequence.cpp)
+29. [Edit Distance](28_edit_distance.cpp)
  
 
 

@@ -30,6 +30,8 @@
 28. [Distinct Subsequences](27_distinct_subsequence.cpp)
 29. [Edit Distance](28_edit_distance.cpp)
 30. [Wildcard Matching](29_Wildcard_matching.cpp)
+31. [Buy and Sell Stocks](30_buy_and_sell_stocks.cpp)
+32. [Buy and Sell Stocks II](31_buy_and_sell_stocks_II.cpp)
  
 
 

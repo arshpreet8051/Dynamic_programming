@@ -33,7 +33,8 @@
 31. [Buy and Sell Stocks](30_buy_and_sell_stocks.cpp)
 32. [Buy and Sell Stocks II](31_buy_and_sell_stocks_II.cpp)
 33. [Buy and Sell Stocks III](32_Buy_and_Sell_stocks_III.cpp)
-33. [Buy and Sell Stocks IV](33_Buy_and_Sell_Stocks_IV.cpp)
+34. [Buy and Sell Stocks IV](33_Buy_and_Sell_Stocks_IV.cpp)
+35. [Buy and Sell Stocks with Cooldown](34_Buy_and_Sell_Stocks_with_Cooldown.cpp)
  
 
 

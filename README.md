@@ -37,6 +37,7 @@
 35. [Buy and Sell Stocks with Cooldown](34_Buy_and_Sell_Stocks_with_Cooldown.cpp)
 36. [Buy and Sell Stocks with Transaction Fee](35_Buy_and_Sell_Stocks_transaction_fee.cpp)
 37. [Length of Longest increasing subsequence](36_Longest_increasing_subsequence.cpp)
+38. [Printing Longest Increasing Subsequence](37_Print_Longest_Increasing_Subsequence.cpp)
  
 
 

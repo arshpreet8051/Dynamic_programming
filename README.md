@@ -38,6 +38,10 @@
 36. [Buy and Sell Stocks with Transaction Fee](35_Buy_and_Sell_Stocks_transaction_fee.cpp)
 37. [Length of Longest increasing subsequence](36_Longest_increasing_subsequence.cpp)
 38. [Printing Longest Increasing Subsequence](37_Print_Longest_Increasing_Subsequence.cpp)
+39. [Binary Search algo - Longest Increasing Subsequence LIS](38_Longest_increasing_subsequence_Binary_Search.cpp)
+40. [Longest String Chain](39_Longest_String_Chain.cpp)
+41. [Longest Bitonic Subsequence](40_Longest_Bitonic_Subsequence.cpp)
+
  
 
 

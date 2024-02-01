@@ -41,6 +41,7 @@
 39. [Binary Search algo - Longest Increasing Subsequence LIS](38_Longest_increasing_subsequence_Binary_Search.cpp)
 40. [Longest String Chain](39_Longest_String_Chain.cpp)
 41. [Longest Bitonic Subsequence](40_Longest_Bitonic_Subsequence.cpp)
+42. [MCM Matrix Chain Multiplication](41_MCM_Matrix_Chain_Multiplication.cpp)
 
  
 

@@ -43,6 +43,7 @@
 41. [Longest Bitonic Subsequence](40_Longest_Bitonic_Subsequence.cpp)
 42. [MCM Matrix Chain Multiplication](41_MCM_Matrix_Chain_Multiplication.cpp)
 43. [Min Cost to Cut Chocolates](42_Min_cost_to_cut_chocolate.cpp)
+44. [LCS of 3 strings](43_LCS_of_3_strings.cpp)
 
  
 
